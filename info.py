@@ -69,8 +69,8 @@ TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_dwnload/45")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_dwnload/47")
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "cb930d3555c570acaa6b188d4faca5c530b39ef4")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkcents.com")
+SHORTENER_API = environ.get("SHORTENER_API", "a37d35def762b00679123e4bafab4be0416f43c6")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "shortyfi.site")
 
 SHORTENER_API2 = environ.get("SHORTENER_API2", "826eb92e893f6fdb42920983bba04c409bdc0b5d")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "tnshort.net")
